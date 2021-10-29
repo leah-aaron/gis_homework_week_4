@@ -50,6 +50,7 @@ Join_HDI <- world_countries_map %>%
 
 view(Join_HDI)
 
+h
 
   
   
